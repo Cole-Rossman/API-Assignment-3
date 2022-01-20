@@ -1,8 +1,13 @@
-## The Golden Rule:
+Make API templates in html file
+Create function to render the page - don't forget export and async keywords
+Grab template and the select in app.js - validate with console.log
+In app.js make new function to render API - will need const and clone for each piece of api data you want to render.
+Call function to see if we have effectively rendered data
+addEventListener to track if change occurred - user clicked
+grab target and set to variable to see which api call to render by using if statement.
+Check if works and done. 
 
-🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
 
-If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
 
 ## Making a plan
 
