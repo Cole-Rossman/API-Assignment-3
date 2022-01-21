@@ -4,3 +4,4 @@ export async function getPokedex() {
     const json = await resp.json();
     return json.results;
 }
+
